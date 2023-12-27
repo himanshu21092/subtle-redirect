@@ -1,0 +1,22 @@
+{
+  "name": "subtle-redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu21092/subtle-redirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu21092/subtle-redirect/issues"
+  },
+  "homepage": "https://github.com/himanshu21092/subtle-redirect#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
